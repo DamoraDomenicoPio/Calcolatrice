@@ -21,7 +21,7 @@ public class CalcolatriceCmd {
         double a=0.0, b=0.0;
         Funzioni f=new Funzioni(0.0);
         Scanner scan = new Scanner(System.in);
-        System.out.println("*** CALCOLATRICE ***\n");
+        System.out.println("*** CALCOLATRICE ***\n\n");
         while (i!=-1){
             System.out.println("Quale operazione intendi fare?");
             System.out.print("1. Pitagora * Inserire 2 cateti per conoscere l'ipotemusa *\n"
